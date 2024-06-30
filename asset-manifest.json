@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payu-assignment/static/css/main.7f92f7e3.css",
+    "main.js": "/payu-assignment/static/js/main.eb6ecbd3.js",
+    "index.html": "/payu-assignment/index.html",
+    "main.7f92f7e3.css.map": "/payu-assignment/static/css/main.7f92f7e3.css.map",
+    "main.eb6ecbd3.js.map": "/payu-assignment/static/js/main.eb6ecbd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f92f7e3.css",
+    "static/js/main.eb6ecbd3.js"
+  ]
+}
